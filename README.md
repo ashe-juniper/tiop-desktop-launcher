@@ -1,2 +1,3 @@
-# tiop-desktop-launcher
-The desktop launcher for The Isles of Peridot.
+# The Isles of Peridot desktop launcher
+
+The official desktop launcher for The Isles of Peridot.
